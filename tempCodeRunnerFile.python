@@ -1,0 +1,9 @@
+import random
+import string
+
+all = string.ascii_letters + string.digits + string.punctuation
+
+def passwordGenerator(size):
+    return ''.join(random.choice(all) for _ in range(size))
+
+print(passwordGenerator(int(input('How many characters password you want ?'))))

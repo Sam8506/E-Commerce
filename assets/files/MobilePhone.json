@@ -1,0 +1,116 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 14 Pro Max",
+            "desc": "Apple iPhone 14th With ",
+            "price": 999,
+            "color": "#33505a",
+            "image": "data:image/jpeg;base64,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"
+        },
+        {
+            "id": 2,
+            "name": "OPPO Reno8 5G",
+            "desc": "Google Pixel phone 5th generation",
+            "price": 699,
+            "color": "#00ac51",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxatSEfWIzjYV70axsv6eNRnRBMIZNy9LEQw&usqp=CAU"
+        },
+        {
+            "id": 3,
+            "name": "vivo V25 5G",
+            "desc": "Apple Macbook air with apple silicon",
+            "price": 1099,
+            "color": "#e0bfae",
+            "image": "https://support.apple.com/library/APPLE/APPLECARE_ALLGEOS/SP825/macbookair.png"
+        },
+        {
+            "id": 4,
+            "name": "Xiaomi Redmi Note 11 SE",
+            "desc": "Sony Playstation 5th generation",
+            "price": 500,
+            "color": "#544ee4",
+            "image": "https://i1.wp.com/freepngimages.com/wp-content/uploads/2020/07/Playstation-5-games-console-transparent-background-png-image.png?fit=1000%2C1000"
+        },
+        {
+            "id": 5,
+            "name": "Google Pixel 6A",
+            "desc": "Apple Aipods Pro 1st generation",
+            "price": 200,
+            "color": "#e3e4e9",
+            "image": "https://crdms.images.consumerreports.org/c_lfill,w_598/prod/products/cr/models/400116-wireless-portable-headphones-apple-airpods-pro-10009323.png"
+        },
+        {
+            "id": 6,
+            "name": "vivo V25 Pro 5G",
+            "desc": "Apple iPad Pro 2020 edition",
+            "price": 799,
+            "color": "#f73984",
+            "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-pro-12-select-wifi-silver-202003_FMT_WHH?wid=940&hei=1112&fmt=png-alpha&qlt=80&.v=1583551131102"
+        },
+        {
+            "id": 7,
+            "name": "Galaxy S21 Ultra",
+            "desc": "Samsung Galaxy S21 Ultra 2021 edition",
+            "price": 1299,
+            "color": "#1c1c1c",
+            "image": "https://lh3.googleusercontent.com/qRQPjHrhRVIs-xnfNSyiPXOH2vH97ylMacgbTKebqJtRfNH3LlYo8pN-5igsLDWUH62tGl5zNpTsl5xd8SprzGmXoCEmWFOi2-2cQVGS-r3PaRXHt62DmJHq-jrYX0UQvWZ9BA=s800-c"
+        },
+        {
+            "id": 8,
+            "name": "OnePlus 10T",
+            "desc": "Samsung Galaxy S21 2021 edition",
+            "price": 899,
+            "color": "#7c95eb",
+            "image": "https://images.samsung.com/is/image/samsung/p6pim/za/galaxy-s21/gallery/za-clear-cover-galaxy-s21-5g-ef-qg991ttegww-363168624?$720_576_PNG$"
+        },
+        {
+            "id": 9,
+            "name": "realme GT Neo 3T 5G",
+            "desc": "op Galaxy S21 2021 edition",
+            "price": 899,
+            "color": "#7c95eb",
+            "image": "https://images.samsung.com/is/image/samsung/p6pim/za/galaxy-s21/gallery/za-clear-cover-galaxy-s21-5g-ef-qg991ttegww-363168624?$720_576_PNG$"
+        },
+        {
+            "id": 10,
+            "name": "Moto G72",
+            "desc": "op Galaxy S21 2021 edition",
+            "price": 899,
+            "color": "#7c95eb",
+            "image": "https://images.samsung.com/is/image/samsung/p6pim/za/galaxy-s21/gallery/za-clear-cover-galaxy-s21-5g-ef-qg991ttegww-363168624?$720_576_PNG$"
+        },
+        {
+            "id": 11,
+            "name": "OPPO A17",
+            "desc": "op Galaxy S21 2021 edition",
+            "price": 899,
+            "color": "#7c95eb",
+            "image": "https://images.samsung.com/is/image/samsung/p6pim/za/galaxy-s21/gallery/za-clear-cover-galaxy-s21-5g-ef-qg991ttegww-363168624?$720_576_PNG$"
+        },
+        {
+            "id": 12,
+            "name": "Google Pixel 7 5G",
+            "desc": "op Galaxy S21 2021 edition",
+            "price": 899,
+            "color": "#7c95eb",
+            "image": "https://images.samsung.com/is/image/samsung/p6pim/za/galaxy-s21/gallery/za-clear-cover-galaxy-s21-5g-ef-qg991ttegww-363168624?$720_576_PNG$"
+        },
+        {
+            "id": 13,
+            "name": "Google Pixel 7 Pro 5G",
+            "desc": "op Galaxy S21 2021 edition",
+            "price": 899,
+            "color": "#7c95eb",
+            "image": "https://images.samsung.com/is/image/samsung/p6pim/za/galaxy-s21/gallery/za-clear-cover-galaxy-s21-5g-ef-qg991ttegww-363168624?$720_576_PNG$"
+        },
+        {
+            "id": 14,
+            "name": "iQOO Z6 Lite 5G",
+            "desc": "op Galaxy S21 2021 edition",
+            "price": 899,
+            "color": "#7c95eb",
+            "image": "https://images.samsung.com/is/image/samsung/p6pim/za/galaxy-s21/gallery/za-clear-cover-galaxy-s21-5g-ef-qg991ttegww-363168624?$720_576_PNG$"
+        }
+    ]
+}
